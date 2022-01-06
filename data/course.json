@@ -1,0 +1,41 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Epistemology"
+    ]
+  ],
+  "legacy_uid": "93db8151-faf9-49cd-3e51-d6c86867a9fa",
+  "instructors": {
+    "content": [
+      "2581e92b-4c42-9c65-dc0f-b1bd4dd81cf0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ec1441f5-63be-31f7-117a-f34cfe5a21bf",
+    "website": "24-500-other-minds-spring-2003"
+  },
+  "course_title": "Other Minds",
+  "course_description": "This is a seminar on issues connected with the traditional \"problem of other minds\". In addition to reading some of the classic papers on other minds, we will look at recent work on related topics. There will be no lectures. Each week I will spend half an hour or so introducing the assigned reading, and the rest of the time will be devoted to discussion.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.500",
+  "course_image_thumbnail": {
+    "content": "047f3a07-fa41-fb14-5cca-45e15404cc8b",
+    "website": "24-500-other-minds-spring-2003"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "d6e6a1af-9ab3-4f68-8446-1b0912fdeefb",
+  "title": "Course Metadata"
+}
